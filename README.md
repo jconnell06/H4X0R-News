@@ -1,4 +1,4 @@
-#  H4XOR-News
+#  H4X0R-News
 
 This app was created as a part of a [Udemy course](https://www.udemy.com/share/101WsWAEMScldUQn8F/) I am taking (May 2020). 
 
